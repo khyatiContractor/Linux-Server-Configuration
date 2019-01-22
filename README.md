@@ -122,7 +122,7 @@ sudo apt-get upgrade
 ### 10. Install and configure Apache to serve a Python mod_wsgi application
 
 - `sudo apt-get install apache2`
-- Go to [34.210.184.116](34.210.184.116) and you can see default apache home page.
+- Go to [http:\\34.210.184.116](http:\\34.210.184.116) and you can see default apache home page.
 - `sudo a2enmod wsgi`.
 
 
@@ -254,7 +254,7 @@ sudo apt-get upgrade
 - `sudo service apache2 restart`.
 
 ### 16. Set up the database schema and populate the database
-- `. venv3/bin/activate`.
+- `. venv/bin/activate`.
 - `python CatalogDB.py`.
 - `deactivate`.
 
