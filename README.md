@@ -268,3 +268,10 @@ sudo apt-get upgrade
 - `sudo service apache2 restart`.
 - Go to [http://34.210.184.116](http://34.210.184.116)
 
+
+
+### Resources used :
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+https://www.digitalocean.com/community/tutorials/how-to-tune-your-ssh-daemon-configuration-on-a-linux-vps
+https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-an-ubuntu-14-04-vps
+https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
